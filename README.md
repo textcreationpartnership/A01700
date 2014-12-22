@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A sermon of ecclesiastical benediction preached at Oundle at a visitation, Apr. 14. 1619. by Master 
+
+1. To the Reader.
+
 #####Body#####
-A sermon of ecclesiastical benediction preached at Oundle at a visitation, Apr. 14. 1619. by Master 
+
+1. ECCLESIASTICALL BENEDICTION. A Sermon of the power and prerogatiue belonging to the publike Miniſters to bleſſe the people: Preached by S. G. at a Viſitation at Oundle, Ap. 14. 1619.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
